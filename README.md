@@ -8,6 +8,7 @@ can understand their customers and grow more sales in upcoming years.
 
 ## Dataset used
 
+
 ## Questions (KPIs)
 
 - Compare the sales and orders using single chart.
