@@ -20,6 +20,7 @@ can understand their customers and grow more sales in upcoming years.
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
+- Dashboard Interaction <a href= "https://github.com/ashishchamolii/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%20(2).png">View Dashboard</a>
 
 ## Process
 
