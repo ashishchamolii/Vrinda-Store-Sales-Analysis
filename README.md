@@ -7,7 +7,7 @@ The vrinda Store wants to create an annual sales report of 2022. So that, the ow
 can understand their customers and grow more sales in upcoming years.
 
 ## Dataset used.
-- ca href= "https://github.com/ashishchamolii/Vrinda-Store-Sales-Analysis/blob/main/vrinda%20sales%20data.xlsx">Dataset</a>
+ - <a href="https://github.com/ashishchamolii/Vrinda-Store-Sales-Analysis/blob/main/vrinda%20sales%20data.xlsx">Dataset</a>
 
 
 ## Questions (KPIs)
@@ -16,7 +16,7 @@ can understand their customers and grow more sales in upcoming years.
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are different order status in 2022?
-- List top 10 states contributingto the sales?
+- List top 5 states contributingto the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
