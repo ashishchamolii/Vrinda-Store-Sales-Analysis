@@ -29,13 +29,20 @@ can understand their customers and grow more sales in upcoming years.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dashbboard.
 
-  ## Project Insight
+  ## Dashboard
 
+![Screenshot (2)](https://github.com/user-attachments/assets/fff83917-a520-43e8-8da3-f18d1be72c5e)
+
+
+
+  ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
+
 
   ## Final Conclusion
 
-  To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
